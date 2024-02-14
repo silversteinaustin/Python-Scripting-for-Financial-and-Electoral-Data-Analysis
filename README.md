@@ -40,11 +40,3 @@ This project highlights the versatility of Python in solving data-related challe
 ### Acknowledgments
 
 I appreciate the constructive feedback provided, which has been crucial in refining the project's outcomes. Special thanks to everyone who supported me throughout this challenge.
-
-### Feedback Reflections
-
-The feedback received was instrumental in highlighting the importance of meeting all project requirements, including the proper method for exporting analysis results. I am committed to leveraging this feedback to enhance my Python scripting skills further, ensuring that future projects fully align with the assignment criteria.
-
----
-
-For more information, script files, and analysis outputs, please explore the [python-challenge repository](#).
