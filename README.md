@@ -36,7 +36,3 @@ This project showcases the application of Python scripting to solve real-world d
 ### Conclusion
 
 This project highlights the versatility of Python in solving data-related challenges across different sectors. Through PyBank and PyPoll, we've demonstrated that Python scripting can enhance the efficiency and depth of data analysis, providing valuable insights that inform strategic decisions.
-
-### Acknowledgments
-
-I appreciate the constructive feedback provided, which has been crucial in refining the project's outcomes. Special thanks to everyone who supported me throughout this challenge.
